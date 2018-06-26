@@ -1,0 +1,10 @@
+.cool {
+    text-decoration: underline;
+    text-align: right;
+    padding: 0px 30px;
+    cursor: pointer;
+    font-style: italic;
+    font-weight: 30px;
+    color: darkblue
+
+}
